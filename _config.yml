@@ -4,7 +4,8 @@ lang: es
 encoding: utf-8
 
 #Ajustes básicos
-title: "Perfect Stranger"
+title: "The SysWarrior"
+logo: "/assets/images/syswarrior-logo.png"
 description: "Artículos técnicos y notas personales"
 url: "https://www.enriqueverdes.com"
 baseurl: ""
