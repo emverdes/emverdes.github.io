@@ -1,0 +1,11 @@
+main:
+  - title: "Artículos"
+    url: "/"
+  - title: "Técnico"
+    url: "/tech/"
+  - title: "Libros"
+    url: "/libros/"
+  - title: "Música"
+    url: "/musica/"
+  - title: "Acerca de"
+    url: "/about/"

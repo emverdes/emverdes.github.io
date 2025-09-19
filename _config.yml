@@ -1,21 +1,84 @@
 # _config.yml
-title: "Blog de Enrique Verdes"
+locale: es 
+lang: es 
+encoding: utf-8
+
+#Ajustes básicos
+title: "Perfect Stranger"
 description: "Artículos técnicos y notas personales"
-minimal_mistakes_skin: "air"
-paginate: 7
+url: "https://www.enriqueverdes.com"
+baseurl: ""
+
+#Tema
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-archives
+  - jekyll-include-cache
+
+#Permalinks y paginado
+permalink: /:categories/:title/
+paginate: 10
+paginate_path: "/page:num/"
+
+#Colecciones básicas
+collections:
+  posts:
+    output: true
+
+#Taxonomías
+category_archive:
+  type: liquid
+  path: /categorias/
+
+tag_archive:
+  type: liquid
+  path: /tags/ 
+
+#Navegación (usa _data/navigation.yml)
+plugins_dir: _plugins
+include: 
+  - _pages
+  - assets
 
 author:
-  name   : "Enrique Verdes"
+  name: "Enrique Verdes"
+  avatar: "/assets/images/avatarEnrique.png"
+  bio: "Marinated Sysadmin. Powered by mate."
   links:
     - label: "LinkedIn"
-      url:  "https://www.linkedin.com/in/enriqueverdes/"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/enriqueverdes/"
     - label: "GitHub"
-      url:  "https://github.com/emverdes"
+      icon: "fab fa-github"
+      url: "https://github.com/emverdes"
 
-nav:
-  - title: "Artículos técnicos"
-    url:   /categories/tech/
-  - title: "Libros & Música"
-    url:   /categories/personal/
-  - title: "Acerca de…"
-    url:   /about/
+# Defaults para que todo se vea consistente
+defaults:
+- scope:
+    path: ""
+    type: posts
+  values:
+    layout: single
+    author_profile: true
+    read_time: true
+    show_date: true
+    comments: false
+    share: false
+- scope:
+    path: "_pages"
+    type: pages
+  values:
+    layout: single
+    author_profile: true
+
+# Feed/SEO
+feed:
+path: feed.xml
+
+# Opciones del tema Minimal Mistakes
+minimal_mistakes_skin: "default" # sobrio; probá también "air", "contrast"
