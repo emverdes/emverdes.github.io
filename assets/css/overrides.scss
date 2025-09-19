@@ -6,7 +6,7 @@ body { font-family: var(--mm-font-family); }
 /* Tamaño del logo en el masthead */
 .site-logo,
 .masthead__logo {
-  height: 40px;       /* subí/bajá según gusto: 32–48 suele verse bien */
+  height: 50px;       /* subí/bajá según gusto: 32–48 suele verse bien */
   width: auto;
   margin-right: 10px;
   vertical-align: middle;
@@ -14,7 +14,7 @@ body { font-family: var(--mm-font-family); }
 
 /* Tamaño del título al lado del logo */
 .site-title, .masthead__title a, .masthead__title {
-  font-size: 1.5rem;  /* 1.4–1.8rem */
+  font-size: 1.8rem;  /* 1.4–1.8rem */
   font-weight: 700;
   line-height: 1.2;
 }
