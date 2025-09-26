@@ -14,3 +14,5 @@ Iron Maiden, AC/DC, Judas Priest... you know. Y apareció el disco Perfect Stran
 La canción que le da nombre al disco, tiene una atmosfera misteriosa, comenzando con el órgano de Jon Lord, y sumándose el resto de la banda en un riff denso y pesado, con la voz de Gillan cantando como "ecos del pasado". Para Ritchie Blackmore es su canción favorita de la banda, y para mi, es de las mejores, sin duda.
 
 Así que, si ya los conocés, es buen momento para volver a escucharlos, y si no, descubrí con "Perfect Strangers" a esta banda, que representa lo mejor del Hard Rock británico.
+
+![Imágen de la cubierta del disco Perfect Strangers](/assets/images/Perfect-Strangers.jpg)(https://youtu.be/gZ_kez7WVUU?si=sK7WvdhHxDVycV6b)
