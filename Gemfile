@@ -12,4 +12,4 @@ group :jekyll_plugins do
   gem "jekyll-include-cache", "~> 0.2"
 end
 
-gem "webrick", "~> 1.8"           # Necesario para `serve` en Ruby 3.x
+gem "webrick", "~> 1.9"           # Necesario para `serve` en Ruby 3.x
