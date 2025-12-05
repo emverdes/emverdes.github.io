@@ -15,4 +15,4 @@ La canción que le da nombre al disco, tiene una atmosfera misteriosa, comenzand
 
 Así que, si ya los conocés, es buen momento para volver a escucharlos, y si no, descubrí con "Perfect Strangers" a esta banda, que representa lo mejor del Hard Rock británico.
 
-![Imágen de la cubierta del disco Perfect Strangers](/assets/images/Perfect-Strangers.jpg)(https://youtu.be/gZ_kez7WVUU?si=sK7WvdhHxDVycV6b)
+![Imágen de la cubierta del disco Perfect Strangers](../assets/images/Perfect-Strangers.jpg)(https://youtu.be/gZ_kez7WVUU?si=sK7WvdhHxDVycV6b)
