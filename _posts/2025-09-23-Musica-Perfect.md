@@ -19,4 +19,5 @@ Así que, si ya los conocés, es buen momento para volver a escucharlos, y si no
   image_path="/assets/images/Perfect-Strangers.jpg"
   alt="Imágen de la cubierta del disco Perfect Strangers"
   url="<https://youtu.be/gZ_kez7WVUU?si=sK7WvdhHxDVycV6b>"
+  target="_blank"
 %}
