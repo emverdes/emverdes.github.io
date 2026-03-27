@@ -2,7 +2,7 @@
 layout: single
 title: "Perfect Strangers."
 categories: [musica]
-tags: [meta]
+tags: [top]
 ---
 ## La canción de la semana
 
