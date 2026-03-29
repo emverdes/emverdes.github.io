@@ -29,14 +29,14 @@ Ahora, muchas veces se me pide guía o asesoramiento de carrera por parte de alu
 
 Y por supuesto, se los pregunté a ChatGPT, y lo que me respondió coincide con algo que para mi mismo siempre fue clave:
 
-> "Aprende los fundamentos tan bien, que las herramientas cambien, sin volverte obsoleto."
+> "Aprende los fundamentos tan bien, que las herramientas cambien sin volverte obsoleto."
 
-Vamos a ir al detalle. Es curioso porque es algo que estuve conversando con mis alumnos hace unas semanas en el Taller de Linus en ORT.
+Vamos a ir al detalle. Es curioso porque es algo que estuve conversando con mis alumnos hace unas semanas en el Taller de Linux en ORT.
 
-Tomar una estrategia de formación en **T**, o sea, una base amplia de fundamentos, y profundizar en una (o dos) áreas de especialización.
+Tomar una estrategia de "formación en **T**", o sea, una base amplia de fundamentos, y profundizar en una (o dos) áreas de especialización.
 
 - Construir una base de fundamentos que aplican a cualquier camino que quiera transitar en IT,
-- y depsués profundizar en un área lo antes posible, para aportar valor.
+- y después profundizar en un área lo antes posible, para aportar valor.
 
 Generalmente uno deja la especialización para cuando tiene más experiencia, pero es un lujo que no podemos darnos actualmente.
 
@@ -44,7 +44,7 @@ Generalmente uno deja la especialización para cuando tiene más experiencia, pe
 
 - Sistemas Operativos
 - Redes
-- Logica de programación
+- Lógica de programación
 - Estructuras de datos básicas
 - Seguridad básica
 - Control de Versiones
@@ -68,7 +68,7 @@ En mi caso, me formé con Analista Programador, pero siempre trabajé en infraes
 - Puedo entender, arreglar, y hacer pipelines sencillos.
 - Puedo trajabar en la nube.
 
-Pero sobre todo, y esto muchas veces no se le da importancia, desde muy temprano en mi carrera aprendí a comunicar. Y puedo escribir bastante bien, que es algo sumamente importante, sobre todo poder hablar con gente que no habla nuestro mismo idioma técnico.
+Pero sobre todo, y esto muchas veces no se le da importancia, desde muy temprano en mi carrera aprendí a comunicar. Y puedo escribir bastante bien, que es algo sumamente importante. Lo fundamental es poder comunicar claramente conceptos técnicos en lenguaje sencillo.
 
 Y último, pero no menos importante, es fundamental poder hablar inglés. No se trata solo de poder leer documentación y sitios web. Se trata de poder entender y comunicarse con otras personas en Inglés competentemente.
 
